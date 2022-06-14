@@ -1,4 +1,4 @@
-### Hello there (・-・)ノ
+### Hello (・-・)ノ
 
 [Resume](https://resume.creddle.io/resume/8jbd37dofvq)
 
