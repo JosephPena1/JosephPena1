@@ -9,7 +9,7 @@
 
 ### Projects I've worked on:
 * Doom Buggy [(Itch.io)](https://doombuggy.itch.io/doom-buggy)
-* Little NoteBoat [(Itch.io)](https://chicory-games.itch.io/little-noteboat) [(Github)](https://github.com/lucasCampCode/A-Little-Noteboat)
+* Little Noteboat [(Itch.io)](https://chicory-games.itch.io/little-noteboat) [(Github)](https://github.com/lucasCampCode/A-Little-Noteboat)
 
 <br/>
 
