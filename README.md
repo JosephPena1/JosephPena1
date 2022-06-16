@@ -3,7 +3,7 @@
 ### About Me:
 I am a Unity and Unreal game developer, and I enjoy learning new things.
 
-### How to reach me:
+### Contact info:
 * [LinkedIn](https://www.linkedin.com/in/joseph-pena-5949411ba/)
 * [Resume](https://resume.creddle.io/resume/8jbd37dofvq)
 * Email: jgpena2888@gmail.com
