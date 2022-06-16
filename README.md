@@ -1,5 +1,8 @@
 ### Hello (・-・)ノ
 
+### About Me:
+I am a Unity and Unreal programmer, and I enjoy learning new things.
+
 ### How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/joseph-pena-5949411ba/)
 * [Resume](https://resume.creddle.io/resume/8jbd37dofvq)
@@ -10,13 +13,13 @@
 ### Projects I've worked on:
 * Doom Buggy [(Itch.io)](https://doombuggy.itch.io/doom-buggy)
 
-<img src="https://img.itch.zone/aW1nLzkwNDcxMzkucG5n/original/Jim8v7.png" alt="Doom Buggy" width="400" height="200"/> &nbsp;&nbsp;&nbsp; <img src="https://img.itch.zone/aW1hZ2UvMTU0OTM2OS85MDU1MjM4LnBuZw==/347x500/7WhASG.png" alt="Doom Buggy Game" width="400" height="200"/>
+<img src="https://img.itch.zone/aW1nLzkwNDcxMzkucG5n/original/Jim8v7.png" alt="Doom Buggy" width="400" height="200"/> &nbsp;&nbsp; <img src="https://img.itch.zone/aW1hZ2UvMTU0OTM2OS85MDU1MjM4LnBuZw==/347x500/7WhASG.png" alt="Doom Buggy Game" width="400" height="200"/>
 
 <br/>
 
 * Little NoteBoat [(Itch.io)](https://chicory-games.itch.io/little-noteboat) [(Github)](https://github.com/lucasCampCode/A-Little-Noteboat)
 
-<img src="https://img.itch.zone/aW1nLzYzNDUxNzcucG5n/347x500/LPtXLE.png" alt="Little NoteBoat" width="200" height="200"/> &nbsp;&nbsp;&nbsp; <img src="https://cdn.discordapp.com/attachments/689567022710915153/986324733408718878/unknown.png" alt="Little NoteBoat Game" width="200" height="200"/>
+<img src="https://img.itch.zone/aW1nLzYzNDUxNzcucG5n/347x500/LPtXLE.png" alt="Little NoteBoat" width="200" height="200"/> &nbsp;&nbsp; <img src="https://cdn.discordapp.com/attachments/689567022710915153/986324733408718878/unknown.png" alt="Little NoteBoat Game" width="200" height="200"/>
 
 <br/>
 
