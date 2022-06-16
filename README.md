@@ -29,7 +29,7 @@ I am a Unity and Unreal game developer, and I enjoy learning new things.
 </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+<img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab.png" alt="unity" width="40" height="40"/>
 </a>
 <img src="https://w7.pngwing.com/pngs/295/917/png-transparent-unreal-engine-4-game-engine-epic-games-others-miscellaneous-blue-game-thumbnail.png" alt="unreal" width="40" height="40"/>
 </a>
