@@ -1,7 +1,7 @@
 ### Hello (・-・)ノ
 
 ### About Me:
-I am a Unity and Unreal programmer, and I enjoy learning new things.
+I am a Unity and Unreal game developer, and I enjoy learning new things.
 
 ### How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/joseph-pena-5949411ba/)
@@ -35,5 +35,5 @@ I am a Unity and Unreal programmer, and I enjoy learning new things.
 </a>
 </p>
 
-<!--
-- 🔭 I’m currently working on ...
+### Other Projects
+* [ReverseTimeSystem](https://github.com/JosephPena1/ReverseTimeSystem): This was a little demo I made with the goal of creating a system that reverses objects and characters.
